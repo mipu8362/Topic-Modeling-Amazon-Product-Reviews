@@ -25,6 +25,6 @@ This repo is an example of using k-Means Topic Modeling in Python to deliver mar
 ####  1 Star Reviews Folder
   
     Contains .txt files of all the worst Amazon Puma reviews, organized by cluster.
-####  4 Stars Reviews Folder
+####  4 Star Reviews Folder
   
     Contains .txt files of all the best Amazon Puma reviews, organized by cluster.
