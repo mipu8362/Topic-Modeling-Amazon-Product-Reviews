@@ -9,16 +9,16 @@ This repo is an example of using k-Means Topic Modeling in Python to deliver mar
 ### File Description:
   1. 1_Star_Printed_Topics.txt
   
-    * Topic Model of worst reviews.
+    Topic Model of worst reviews.
   2. 4_Star_Printed_Topics.txt
   
-    * Topic Model of best reviews.
+    Topic Model of best reviews.
   3. Topic Modeling Amazon Product Review - Puma.docx
   
-    * Final written report, data analysis, and brand insights.
+    Final written report, data analysis, and brand insights.
   4. Topic Modeling Amazon Review Data.ipynb
   
-    * Python project script.
+    Python project script.
   5. allpumareviews.json
   
-    * All Puma reviews on Amazon.
+    All Puma reviews on Amazon.
